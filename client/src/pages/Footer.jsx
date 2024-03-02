@@ -11,7 +11,7 @@ function Footer() {
                     <img src="india_travel_logo.jpg" alt="App Logo"
                         className="size-[50px] rounded-full border-2 border-pink-700"
                     />
-                    <div className="text-blue-700 text-3xl">India_Travellica</div>
+                    <div className="text-blue-700 text-2xl">India_Travellica</div>
                 </div>
                 <div>
                     <div className="text-2xl mb-2 text-start"><u>Contact Us</u></div>

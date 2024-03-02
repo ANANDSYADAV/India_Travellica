@@ -11,7 +11,7 @@ function AboutUs() {
                 />
                 <div className="flex flex-col gap-4 md:gap-2 lg:gap-6 w-[100%] md:w-[80%] text-center md:text-start">
                     <div>
-                        <h1 className="font-semibold text-4xl">Anand Yadav</h1>
+                        <h1 className="font-semibold text-4xl roboto-regular">Anand Yadav</h1>
                         <h2 className="text-slate-700 text-xl">NITA CSE'25</h2>
                     </div>
                     <div className="text-lg">
