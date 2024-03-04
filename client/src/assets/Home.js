@@ -86,4 +86,7 @@ export const HomeCuisine = [
     {
         image: "https://images.ctfassets.net/trvmqu12jq2l/4FNjVN4XJh6lH0cJE2Pa1b/d058a5d3de9ebfdc04137a8480089f16/BestIndianChicago_Mild2Spicy_group_feature.jpg"
     },
+    {
+        image: "https://cdn.vox-cdn.com/thumbor/fWdJKI_dirNSL2bBWVVWVW_I4-Q=/0x0:7360x4912/1200x800/filters:focal(3092x1868:4268x3044)/cdn.vox-cdn.com/uploads/chorus_image/image/67000785/shutterstock_1435374326.0.jpg"
+    },
 ]

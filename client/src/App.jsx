@@ -4,6 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import NavBar from "./components/NavBar"
 import AboutUs from "./pages/AboutUs"
 import Error from "./pages/Error"
+import AboutInida from "./pages/AboutInida"
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/aboutus" element={<AboutUs />} />
+          <Route path="/india" element={<AboutInida />} />
           <Route path="/*" element={<Error />} />
         </Routes>
         <Footer />
